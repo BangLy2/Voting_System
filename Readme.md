@@ -1,11 +1,7 @@
-Team number: 08
-
-Member names and x500: James Kropiwka (kropi015), Aiden Fujiwara (fujiw011), Nuh Misirli (misir002), Bang Ly (ly000051) 
-
 Do this before any thing else! To get Access to file in this github repo:
 1. Create a directory.
 2. Go into the newly created directory and open the terminal to it.
-3. In the terminal, input “git clone git@github.umn.edu:umn-csci-5801-01-S23/repo-Team8.git” to git clone our project into a directory.
+3. In the terminal, input “git clone https://github.com/BangLy2/Voting_System.git” to git clone our project into a directory.
 4. Now you will have the repository on your local machine. You can move onto the next steps now.
 
 The steps to run the simulation in a lab machine are:
