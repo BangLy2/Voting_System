@@ -1,0 +1,11 @@
+Task,Assigned To,Not Started,Started ,Finished
+IR Redistribute Ballots - BUG,James,,,X
+Display Percentages Correctly In Results/Audit - BUG,Aiden,,,X
+Bring In Multiple Files,Nuh,,X,
+Process Multiple IR Ballot Files,Bang,,X,
+Process Multiple CPL Ballot Files,Bang,,X,
+IR Table Results,Aiden,,X,
+Bring In PO Files,Nuh ,X,,
+Run PO Election (No Audit/Results),Bang,X,,
+Tie Breaker For PO,James,,X,
+invalid file check,,,,
